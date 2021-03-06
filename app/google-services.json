@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551242702863",
+    "project_id": "lanternchat-50c72",
+    "storage_bucket": "lanternchat-50c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551242702863:android:55e7187b8022580854837a",
+        "android_client_info": {
+          "package_name": "com.example.lanternchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551242702863-ipn44p1duivk3cnq4mll3qk0t3vt6rea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFQd7MyVKnQZ6qwzcvUdViAoEWd0A1bfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551242702863-ipn44p1duivk3cnq4mll3qk0t3vt6rea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
